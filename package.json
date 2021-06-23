@@ -1,0 +1,19 @@
+{
+  "name": "proyectoclasescuadrado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguscuadrado/ServiciosMusicoCuadrado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguscuadrado/ServiciosMusicoCuadrado/issues"
+  },
+  "homepage": "https://github.com/aguscuadrado/ServiciosMusicoCuadrado#readme"
+}
